@@ -42,13 +42,14 @@ Learn to discover open ports on devices in your local network to understand netw
    - Visiting the [Nmap Download](https://nmap.org/download.html) and download the appropriate version for my operating system.
    - Following the installation instructions provided on the website for my platform (Windows, Linux, macOS).
    - verifing the nmap `version`
-![nmap-version](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/nmap%20-v%20.png)
+![nmap-version](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/images/nmap%20-v%20.png)
+
 
 ---
 
 ### Finding my local IP range
 
-![ifconfig](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/ifconfig.png)
+![ifconfig](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/images/ifconfig.png)
 
 ---
 
@@ -57,7 +58,7 @@ Learn to discover open ports on devices in your local network to understand netw
 - `-sS` is used for a **TCP SYN scan** (also known as a half-open scan).
 - `/24` is the **CIDR notation** representing my subnet `192.168.232.1/24` means the first 24 bits are network bits — equivalent to subnet mask `255.255.255.0`
 
-![nmap -sS](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/nmap%20-sS%20.png)
+![nmap -sS](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/images/nmap%20-sS%20.png)
 
 ---
 
@@ -98,7 +99,16 @@ Learn to discover open ports on devices in your local network to understand netw
 - choising the `eth0` capture the packet on  my interface
 - then i used `map -sS 192.168.232.128/24`
 
-![Wireshark Packet Captures](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/wireshark%20packet%20captures.png)
+![Wireshark Packet Captures](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/images/wireshark%20packet%20captures.png)
+*Wireshark packet data*
+
+![Wireshark TCP Port 135](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/images/wireshark_tcp_port_135.png)
+
+*Wireshark TCP Port 135*
+
+![Wireshark All Ports](https://raw.githubusercontent.com/hackThacker/internship-projects/main/Day-1/images/wireshark%20all%20port%20of%20port.png)
+
+*Wireshark All open ports*
 
 ---
 
