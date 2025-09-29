@@ -49,7 +49,7 @@ A packet capture (.pcap) file and a short report of protocols identified
 
 
 
-### 1. Installed Wireshark
+###  Installed Wireshark
 
 Just downloaded Wireshark from the [official site](https://www.wireshark.org/download.html)
  and installed it. Chose all default options during setup.
@@ -58,7 +58,7 @@ Just downloaded Wireshark from the [official site](https://www.wireshark.org/dow
 
 > ✅ Good call — especially making sure Npcap was included. That’s needed for live captures.
 
-### 2. Started capturing on my main network interface
+### Started capturing on my main network interface
 
 Opened Wireshark and started a capture on the interface showing activity (mine was Ethernet).
 
@@ -67,7 +67,7 @@ Opened Wireshark and started a capture on the interface showing activity (mine w
 
 
 
-### 3. Visited a few websites and ran some pings
+###  Visited a few websites and ran some pings
 
 Went to a couple of websites and also pinged `testphp.vulnweb.com` from the terminal to generate traffic.
 
