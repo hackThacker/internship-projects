@@ -1,3 +1,5 @@
+<!-- TOC -->
+
 - [Task 5: Capture and Analyze Network Traffic Using Wireshark.](#task-5-capture-and-analyze-network-traffic-using-wireshark)
 - [Objective:](#objective)
 - [Tools:](#tools)
@@ -9,11 +11,11 @@
     - [Stopped the capture and checked the packets](#stopped-the-capture-and-checked-the-packets)
     - [Filter captured packets by protocol  HTTP, DNS, TCP.](#filter-captured-packets-by-protocol--http-dns-tcp)
     - [Identify at least 5 different protocols in the capture.](#identify-at-least-5-different-protocols-in-the-capture)
-    - [Export the capture as a .pcap file.](#export-the-capture-as-a-pcap-file)
+    - [Export the capture as  file.](#export-the-capture-as--file)
     - [Summarizing of Findings and Packet Details](#summarizing-of-findings-and-packet-details)
 - [Outcome](#outcome)
 
-
+<!-- /TOC -->
 
 ## Task 5: Capture and Analyze Network Traffic Using Wireshark.
 
