@@ -14,3 +14,7 @@ Welcome to my **Cyber Security Internship** repository! This repo contains docum
 **Four day** [View Documentation](./Day-4/day4.md)
 
 **five day** [View Documentation](./Day-5/day5.md)
+
+**six day** [View Documentation](./Day-6/day6.md)
+
+**seven day** [View Documentation](./Day-7/day7.md)
