@@ -1,3 +1,17 @@
+- [Task 8: VPNs in protecting privacy](#task-8-vpns-in-protecting-privacy)
+- [Objective](#objective)
+- [Tools](#tools)
+- [Deliverables](#deliverables)
+- [Guide](#guide)
+    - [Choose a reputable free VPN service and sign up](#choose-a-reputable-free-vpn-service-and-sign-up)
+    - [Download and Install Proton VPN Client](#download-and-install-proton-vpn-client)
+    - [Connect to a VPN server choose closest or any location](#connect-to-a-vpn-server-choose-closest-or-any-location)
+    - [Verify your IP address has changed](#verify-your-ip-address-has-changed)
+    - [Browse a website to confirm traffic is encrypted](#browse-a-website-to-confirm-traffic-is-encrypted)
+    - [Disconnect VPN and compare browsing speed and IP.](#disconnect-vpn-and-compare-browsing-speed-and-ip)
+    - [Research VPN encryption and privacy feature](#research-vpn-encryption-and-privacy-feature)
+    - [VPN benefits and limitations](#vpn-benefits-and-limitations)
+- [Outcome](#outcome)
 
 ## Task 8: VPNs in protecting privacy
 
